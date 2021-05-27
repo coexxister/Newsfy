@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Newsfy_Rework</string>
+
+    //titles and button names for main screens
+    <string name="title_home">Your feed</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_account">You</string>
+    <string name="toolbar_title">Your feed</string>
+    <string name="notification_button">Notification</string>
+    <string name="popular">Popular now</string>
+
+    //categories for preferences
+    <string name="categories">Categories</string>
+    <string name="general">General</string>
+    <string name="science">Science</string>
+    <string name="business">Business</string>
+    <string name="technology">Technology</string>
+    <string name="sports">Sports</string>
+    <string name="health">Health</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="pl">Poland</string>
+    <string name="uk">UK</string>
+    <string name="ch">China</string>
+    <string name="usa">USA</string>
+    <string name="fr">France</string>
+    <string name="de">Germany</string>
+
+    <string name="description">Here is a description</string>
+    <string name="publishedAt">Date</string>
+    <string name="image">News thumbnail</string>
+
+    //Sign in and sign up namings
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="minimum_password">Password too short</string>
+    <string name="action_register">Register</string>
+    <string name="action_already_registered">Already registered? Login!</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_up">Not with us yet? Register</string>
+    <string name="logout_button">Logout</string>
+    <string name="auth_failed">Failed to login</string>
+</resources>
